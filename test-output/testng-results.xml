@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[STEP1]]>
+    </line>
+    <line>
+      <![CDATA[STEP2]]>
+    </line>
+    <line>
+      <![CDATA[STEP3]]>
+    </line>
+    <line>
+      <![CDATA[STEP4]]>
+    </line>
+    <line>
+      <![CDATA[STEP5]]>
+    </line>
+    <line>
+      <![CDATA[STEP6]]>
+    </line>
+    <line>
+      <![CDATA[STEP7]]>
+    </line>
+    <line>
+      <![CDATA[STEP8]]>
+    </line>
+    <line>
+      <![CDATA[STEP9]]>
+    </line>
+    <line>
+      <![CDATA[STEP10]]>
+    </line>
+    <line>
+      <![CDATA[STEP11]]>
+    </line>
+    <line>
+      <![CDATA[STEP12]]>
+    </line>
+    <line>
+      <![CDATA[STEP13]]>
+    </line>
+    <line>
+      <![CDATA[STEP14]]>
+    </line>
+    <line>
+      <![CDATA[STEP15]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44134" started-at="2018-10-04T11:06:22Z" finished-at="2018-10-04T11:07:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="44134" started-at="2018-10-04T11:06:22Z" finished-at="2018-10-04T11:07:07Z">
+      <class name="test.TestClass">
+        <test-method status="PASS" signature="bc(java.lang.String)[pri:0, instance:test.TestClass@3712b94]" name="bc" is-config="true" duration-ms="4892" started-at="2018-10-04T11:06:22Z" finished-at="2018-10-04T11:06:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[STEP1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method status="PASS" signature="bm()[pri:0, instance:test.TestClass@3712b94]" name="bm" is-config="true" duration-ms="15987" started-at="2018-10-04T11:06:27Z" finished-at="2018-10-04T11:06:43Z">
+          <reporter-output>
+            <line>
+              <![CDATA[STEP2]]>
+            </line>
+            <line>
+              <![CDATA[STEP3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="register()[pri:1, instance:test.TestClass@3712b94]" name="register" duration-ms="5052" started-at="2018-10-04T11:06:43Z" finished-at="2018-10-04T11:06:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[STEP4]]>
+            </line>
+            <line>
+              <![CDATA[STEP5]]>
+            </line>
+            <line>
+              <![CDATA[STEP6]]>
+            </line>
+            <line>
+              <![CDATA[STEP7]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="bm()[pri:0, instance:test.TestClass@3712b94]" name="bm" is-config="true" duration-ms="8310" started-at="2018-10-04T11:06:48Z" finished-at="2018-10-04T11:06:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[STEP8]]>
+            </line>
+            <line>
+              <![CDATA[STEP9]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="login()[pri:2, instance:test.TestClass@3712b94]" name="login" duration-ms="8805" started-at="2018-10-04T11:06:57Z" finished-at="2018-10-04T11:07:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[STEP10]]>
+            </line>
+            <line>
+              <![CDATA[STEP11]]>
+            </line>
+            <line>
+              <![CDATA[STEP12]]>
+            </line>
+            <line>
+              <![CDATA[STEP13]]>
+            </line>
+            <line>
+              <![CDATA[STEP14]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="ac()[pri:0, instance:test.TestClass@3712b94]" name="ac" is-config="true" duration-ms="1064" started-at="2018-10-04T11:07:06Z" finished-at="2018-10-04T11:07:07Z">
+          <reporter-output>
+            <line>
+              <![CDATA[STEP15]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ac -->
+      </class> <!-- test.TestClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
